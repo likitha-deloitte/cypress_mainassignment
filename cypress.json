@@ -1,0 +1,9 @@
+{
+    "chromeWebSecurity":false,
+    "env":
+    {
+        "url" : "https://magento.softwaretestingboard.com/",
+        "email" : "magentosoftwaretest@gmail.com",
+        "Password" : "Magento@123"
+    }
+}
